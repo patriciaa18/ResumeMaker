@@ -1,6 +1,6 @@
 from docx import Document
 
-print("=======RESUME MAKER AND COMPRESSION=======")
+print("=======RESUME MAKER=======")
 title_input = input("Resume file title: ")
 print("Please input your data accurately to generate your resume")
 name = input("name: ")
